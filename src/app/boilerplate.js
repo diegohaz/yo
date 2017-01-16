@@ -23,7 +23,7 @@ export default class extends Generator {
     this.fs.writeJSON(this.destinationPath('package.json'), {
       ...generatedPkg,
       main: rootPkg.main,
-      files: rootPkg.files,
+      files: ['generators'],
       scripts: rootPkg.scripts,
       watch: rootPkg.watch,
       jest: rootPkg.jest,

@@ -6,7 +6,10 @@
   "repository": "diegohaz/girl",
   "main": "generators/app/index.js",
   "files": [
-    "generators"
+    "generators",
+    ".babelrc",
+    ".eslintignore",
+    "yarn.lock"
   ],
   "author": {
     "name": "Diego Haz",
