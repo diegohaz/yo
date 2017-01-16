@@ -1,6 +1,6 @@
 {
   "name": "generator-girl",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Yeoman generator that generates a next generation generator with ES6, Jest, Flow and more.",
   "homepage": "https://github.com/diegohaz/girl",
   "repository": "diegohaz/girl",
