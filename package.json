@@ -1,6 +1,6 @@
 {
   "name": "generator-yo",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Yeoman generator that generates a next generation generator with ES6, Jest, Flow and more.",
   "homepage": "https://github.com/diegohaz/yo",
   "repository": "diegohaz/yo",
